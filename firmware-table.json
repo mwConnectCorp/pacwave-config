@@ -6,7 +6,7 @@
     {
       "sensorId": 1,
       "name": "PIR_FM",
-      "expectedFirmwareVersion": 39
+      "expectedFirmwareVersion": 41
     },
     {
       "sensorId": 19,
@@ -31,17 +31,17 @@
     {
       "sensorId": 17,
       "name": "ULTRASONIC_BTN",
-      "expectedFirmwareVersion": 32
+      "expectedFirmwareVersion": 33
     },
     {
       "sensorId": 3,
       "name": "MICROWAVE",
-      "expectedFirmwareVersion": 71
+      "expectedFirmwareVersion": 72
     },
     {
       "sensorId": 6,
       "name": "MICROWAVE_RT",
-      "expectedFirmwareVersion": 21
+      "expectedFirmwareVersion": 22
     },
     {
       "sensorId": 23,
