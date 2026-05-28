@@ -26,7 +26,7 @@
     {
       "sensorId": 22,
       "name": "PIR_Z",
-      "expectedFirmwareVersion": 10
+      "expectedFirmwareVersion": 14
     },
     {
       "sensorId": 17,
