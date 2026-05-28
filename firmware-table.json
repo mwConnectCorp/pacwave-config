@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-06-10",
+  "description": "PacWave sensor expected firmware versions by sensor ID. Used by production test tool to verify correct firmware is loaded.",
+  "sensors": [
+    {
+      "sensorId": 1,
+      "name": "PIR_FM",
+      "expectedFirmwareVersion": 39
+    },
+    {
+      "sensorId": 19,
+      "name": "PIR_RD",
+      "expectedFirmwareVersion": 16
+    },
+    {
+      "sensorId": 5,
+      "name": "PIR_RT",
+      "expectedFirmwareVersion": 27
+    },
+    {
+      "sensorId": 8,
+      "name": "PIR_SIMPLE",
+      "expectedFirmwareVersion": 15
+    },
+    {
+      "sensorId": 22,
+      "name": "PIR_Z",
+      "expectedFirmwareVersion": 10
+    },
+    {
+      "sensorId": 17,
+      "name": "ULTRASONIC_BTN",
+      "expectedFirmwareVersion": 32
+    },
+    {
+      "sensorId": 3,
+      "name": "MICROWAVE",
+      "expectedFirmwareVersion": 71
+    },
+    {
+      "sensorId": 6,
+      "name": "MICROWAVE_RT",
+      "expectedFirmwareVersion": 21
+    },
+    {
+      "sensorId": 23,
+      "name": "MICROWAVE_Z",
+      "expectedFirmwareVersion": 10
+    },
+    {
+      "sensorId": 21,
+      "name": "DUAL_TECH_21",
+      "expectedFirmwareVersion": 12
+    },
+    {
+      "sensorId": 31,
+      "name": "DUAL_TECH_31",
+      "expectedFirmwareVersion": 12
+    },
+    {
+      "sensorId": 32,
+      "name": "DUAL_TECH_32",
+      "expectedFirmwareVersion": 16
+    },
+    {
+      "sensorId": 33,
+      "name": "DUAL_TECH_33",
+      "expectedFirmwareVersion": 16
+    }
+  ]
+}
