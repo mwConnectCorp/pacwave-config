@@ -49,23 +49,28 @@
       "expectedFirmwareVersion": 10
     },
     {
+      "sensorId": 9,
+      "name": "DUAL_TECH",
+      "expectedFirmwareVersion": 14
+    },
+    {
       "sensorId": 21,
-      "name": "DUAL_TECH_21",
+      "name": "PIR_110",
       "expectedFirmwareVersion": 12
     },
     {
       "sensorId": 31,
-      "name": "DUAL_TECH_31",
+      "name": "PIR_100",
       "expectedFirmwareVersion": 12
     },
     {
       "sensorId": 32,
-      "name": "DUAL_TECH_32",
+      "name": "PIR_FM_NEW",
       "expectedFirmwareVersion": 16
     },
     {
       "sensorId": 33,
-      "name": "DUAL_TECH_33",
+      "name": "PIR_FM_NEW",
       "expectedFirmwareVersion": 16
     }
   ]
